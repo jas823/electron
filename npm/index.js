@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('react-native-fs');
 const path = require('path');
 
 const pathFile = path.join(__dirname, 'path.txt');
